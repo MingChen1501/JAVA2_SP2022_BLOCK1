@@ -1,4 +1,4 @@
-package com.vn.poly;
+package com.vn.slide1;
 
 public abstract class Animal {
 	

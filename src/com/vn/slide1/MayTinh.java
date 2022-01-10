@@ -1,6 +1,4 @@
-package com.vn;
-
-import com.vn.poly.MayTinhInterface;
+package com.vn.slide1;
 
 public class MayTinh implements MayTinhInterface {
 	

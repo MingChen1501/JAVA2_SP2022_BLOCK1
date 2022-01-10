@@ -1,4 +1,4 @@
-package com.vn;
+package com.vn.slide1;
 
 public class MainEmployee {
 

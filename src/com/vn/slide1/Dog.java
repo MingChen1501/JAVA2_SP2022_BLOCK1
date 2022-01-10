@@ -1,8 +1,16 @@
-package com.vn.child;
-
-import com.vn.poly.Animal;
+package com.vn.slide1;
 
 public class Dog extends Animal {
+	
+	private String id;
+	
+	public Dog() {
+		super();
+	}
+	
+	public Dog(String id) {
+		super();
+	}
 
 	public static void main(String[] args) {
 		Dog dog = new Dog();
